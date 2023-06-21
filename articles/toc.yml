@@ -1,0 +1,45 @@
+- name: Get started
+- name: Articles
+  href: index.md
+- name: Essentials
+- name: Introduction
+  href: intro.md
+- name: Reference
+- name: Article 1
+  href: article1.md
+  items:
+  - name: Subarticle 1 1
+    href: article1_subarticle1.md
+    items:
+    - name: Subarticle 1 1 1
+      href: article1_subarticle1_subarticle1.md
+    - name: Subarticle 1 1 2
+      href: article1_subarticle1_subarticle2.md
+  - name: Subarticle 1 2
+    href: article1_subarticle2.md
+- name: Article 2
+  href: article2.md
+- name: Article 3
+  href: article3.md
+- name: Article 4
+  href: article4.md
+  items:
+  - name: Article 4 1
+    href: article4_subarticle1.md
+    items:
+    - name: Article 4 1 1
+      href: article4_subarticle1_subarticle1.md
+      items:
+      - name: Article 4 1 1 1
+        href: article4_subarticle1_subarticle1_subarticle1.md
+- name: Article 5
+  href: article5.md
+- name: Article 6
+  href: article6.md
+- name: Article 7
+  href: article7.md
+- name: Article 8
+  href: article8.md
+  items:
+  - name: Subarticle 8 1
+    href: article8_subarticle1.md
